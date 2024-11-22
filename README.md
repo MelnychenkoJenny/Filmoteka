@@ -1,45 +1,42 @@
 # COMMAND PROJECT FILMOTEKA
 
+The main goal of the project was to create a user-friendly and visually appealing website where users can choose a movie for solitary viewing, a night with friends, or a cozy evening with a loved one. We wanted our site to be intuitive for every user, leaving no questions about how to use it. Users are provided with a list of top-recommended movies, with the ability to read the synopsis and choose a movie to their liking.  
 
- Основною метою проекту було створити зручний та ззовні приємний сайт, де можна було б обрати фільм для усамітненого перегляду, у компанії друзів або разом зі своєю коханою людиною. Ми хотіли, щоб наш сайт був інтуїтивно зрозумілим будь-якому користувачу і ні у кого не виникало питань як ним користуватися. Користувачу наданий топ рекомендованих фільмів з можливістю ознайомитися зі змістом і базуючись на цьому обрати те, що йому до вподоби. 
- 
+**Timeframe:** 8 days 19 hours  
 
-Термін виконання: 8 днів 19 годин 
+## Our Team
 
-## Наша команда
+**Team Lead:** Nikita Lan  
 
-Team Lead: Нікіта Лань 
+**Scrum Master:** Yevheniia Melnychenko  
 
-Scrum-Master: Євгенія Мельниченко
+**Project Mentor:** Nataliia Valkan  
 
-Project Mentor: Наталія Валко
+**Developers:**  
+- Oleksandr Afanasiev  
+- Kostiantyn Koshyk  
+- Yuliia Ishchenko  
+- Olha Bahrii  
+- Anna Nastenko  
+- Iryna Tsariuk  
+- Oleksii Leshchenko  
+- Zakhar Tsarapov  
+- Artem Osypov  
 
-Розробники:
-- Афанасьєв Олександр
-- Констянтин Кошик 
-- Іщенко Юлія 
-- Багрій Ольга 
-- Настенко Анна 
-- Царюк Ірина 
-- Лещенко Олексій 
-- Царапов Захар 
-- Осіпов Артем
+## MAIN SITE FUNCTIONALITY
 
-## ОСНОВНИЙ ФУНКЦІОНАЛ САЙТУ
+- Eye-pleasing design  
+- Ability to watch a movie trailer directly on the site by selecting a card  
+- Option to add a movie to a personal "watched" or "queue" list  
+- Fully responsive design for all devices  
+- Search functionality by movie title  
 
+![Desktop site filmoteka](./assets/desktop.jpg)  
+![Modal window site filmoteka](./assets/desktop2.jpg)  
+![Mobile site filmoteka](./assets/mobile.jpg)  
 
-- Приємний оку дизайн. 
-- Можливість переглянути трейлер фільму за обраною карткою безпосередньо на сайті. 
-- Можливість додати фільм в особистий список переглянутого або у черзі. 
-- Сайт адаптований під будь-який девайс.
-- Реалізований пошук за назвою фільму.
+## Surprise
 
-![Desctop site filmoteka](./assets/desktop.jpg)
-![Modal window site filmoteka](./assets/desktop2.jpg)
-![Mobile site filmoteka](./assets/mobile.jpg)
+There’s also a hidden surprise (Easter egg) on the site. Try to find it!  
 
-## Сюрприз
-
-Також на сайті схований приємний сюрприз (пасхалка). Спробуйте його знайти. 
-
-Підказка: хтось з участників команди сховав цей сюрприз. Знайдіть його/її ім'я та прізвище ;)
+**Hint:** One of the team members hid the surprise. Find their name and surname 😉  
